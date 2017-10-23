@@ -1,2 +1,1 @@
-# helloworld
-A Test File for learning C.
+一个vim配色方案
